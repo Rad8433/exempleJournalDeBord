@@ -17,7 +17,7 @@ développeur web, animateur 2d/3d
 ### Identification
 **Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi.**
 
-BHVR, Éric Bourdages. Je m’identifie bien à cet artiste et à cette entreprise, car j’adore le jeu Dead by Daylight et j’apprécie beaucoup les efforts faits par le Character Designer pour créer des personnages tout aussi effrayants, mais aussi bien intégrés à l’univers du jeu.
+Behaviour, Éric Bourdages. Je m’identifie bien à cet artiste et à cette entreprise, car j’adore le jeu Dead by Daylight et j’apprécie beaucoup les efforts faits par le Character Designer pour créer des personnages tout aussi effrayants, mais aussi bien intégrés à l’univers du jeu.
 ### Dans 5 ans
 **Où vous voyez-vous dans 5 ans?**
 
