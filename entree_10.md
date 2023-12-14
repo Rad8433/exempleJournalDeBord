@@ -18,7 +18,10 @@ Quelles sont les difficultés que vous avez rencontrées pendant la présentatio
 * Le stress, l'hésitation, faire euuuh...
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
-* 🤷🏽
+* 🤷🏽 le notre
+  
+ <img src="https://github.com/Rad8433/exempleJournalDeBord/assets/143246722/9eca9b44-675d-4e2b-8ebd-3a533c7b7541" width=40% height=40%>
+
   
 ## Rétrospective de la session
 ## Écris un retour sur ta session (1 à 2 lignes par question)
