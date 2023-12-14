@@ -3,22 +3,23 @@
 
 ### Points forts de votre présentation 
 Nommer deux points forts de votre présentation.
-
-### Points à améliorer
+* Le premier point, c'est que nous connaissions bien notre sujet. Le deuxième point est que la présentation était bien structurée, les informations ont été présentées dans un ordre logique.
 Nommer deux points à améliorer de votre présentation ainsi qu'une piste de solution pour les prochaines présentations. 
-
+* Améliorer le placement des informations sur le powerpoint(solution: regarder des exemples de powerpoints sur internet). Éviter de parler trop vite, prendre le temps de respirer.
 ### Gestion du temps
 Comment avez-vous géré votre temps lors de la présentation?
+* Nous avons bien géré notre temps. Nous avons pratiqué à plusieurs reprises avant la présentation pour avoir une idée de la manière dont nous allions gérer notre temps. De plus, nous avons essayer d'éviter de consacrer trop de temps sur un élément et de ne pas trop sortir du sujet.
 
 ### Outils et ressources
 Quels outils et ressources avez-vous utilisés pour la préparation de votre présentation?
-
+* Des feuilles aide mémoire, PowerPoint, Draw.io (pour la maquette du site et de l'application mobile) et photoshop pour faire les dessins dans le scénarimage.
 ### Difficultés
 Quelles sont les difficultés que vous avez rencontrées pendant la présentation?
-
+* Le stress, l'hésitation, faire euuuh...
 ### Présentation préférée
 Quelle présentation avez-vous préféré et pourquoi?
-
+* 🤷🏽
+  
 ## Rétrospective de la session
 ## Écris un retour sur ta session (1 à 2 lignes par question)
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
